@@ -4,7 +4,7 @@
 **Registration number:** [252U1R9116]  
 **Section:** [CSE GEN AI 2-B]  
 **Course:** Backend Development Fundamentals  
-**Live link:** 
+**Live link:** https://lab-3-r71h.onrender.com 
 
 ## Objective
 
